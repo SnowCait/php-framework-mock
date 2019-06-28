@@ -1,9 +1,14 @@
 # php-framework-mock
 PHP Framework mock
 
-## Spec
+## 仕様
+
+### 必須
 - Router
 - Logger
+
+### できれば
+- Composer からインストール
 
 ## 参考フレームワーク
 - [Laravel](https://github.com/laravel/laravel)
