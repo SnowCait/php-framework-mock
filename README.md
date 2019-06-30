@@ -8,7 +8,7 @@ PHP Framework mock
 - Logger
 
 ### できれば
-- Composer からインストール
+- Composer からインストール `composer create-project`
 
 ## 参考フレームワーク
 - [Laravel](https://github.com/laravel/laravel)
