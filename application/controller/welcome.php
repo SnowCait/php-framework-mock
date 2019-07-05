@@ -1,7 +1,8 @@
 <?php
 class Welcome extends Controller
 {
-    public function Hello(string name): void {
+    public function Hello(string name): void
+    {
         $ary = [
             'name' => $name,
         ];
