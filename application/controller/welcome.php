@@ -1,11 +1,13 @@
 <?php
+declare(strict_types=1);
+
 class Welcome extends Controller
 {
-    public function Hello(string name): void
+    public function Hello(string $name): void
     {
-        $ary = [
+        $data = [
             'name' => $name,
         ];
-        return $this->html($ary);
+        return $this->html($data);
     }
 }
