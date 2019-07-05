@@ -6,6 +6,6 @@ class Welcome extends Controller
         $ary = [
             'name' => $name,
         ];
-        return $this->json($ary);
+        return $this->html($ary);
     }
 }
