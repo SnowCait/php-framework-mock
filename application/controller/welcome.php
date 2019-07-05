@@ -1,5 +1,5 @@
 <?php
-class Welcome
+class Welcome extends Controller
 {
     public function Hello(string name): void {
         $ary = [
