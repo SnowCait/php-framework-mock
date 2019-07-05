@@ -8,10 +8,11 @@ PHP Framework mock
 - Logger
 
 ### オプション
-デフォルトでインストールする。
+デフォルトでインストールする？
 - .editorconfig
 - PHPUnit
 - Swagger
+- Docker
 
 ### できれば
 - Composer からインストール `composer create-project`
