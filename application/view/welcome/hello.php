@@ -1,3 +1,1 @@
-<main>
-    <p>hello, <?= $name ?></p>
-</main>
+<p>hello, <?= $name ?></p>
