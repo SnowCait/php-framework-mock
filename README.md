@@ -6,11 +6,14 @@ PHP Framework mock
 ### 必須クラス
 - Router
 - Logger
+- Input & Validation, Output (View)
+- Controller [WebController, CliController]
 
 ### オプション
-デフォルトでインストールする？
 - .editorconfig
 - PHPUnit
+
+フレームワークに含めたくないけど欲しいやつ
 - Swagger
 - Docker
 
