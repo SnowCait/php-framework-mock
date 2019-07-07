@@ -24,4 +24,4 @@ PHP Framework mock
 ## 参考フレームワーク
 - [Laravel](https://github.com/laravel/laravel)
 - [FuelPHP](https://github.com/fuel/core)
-- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter), [CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)
