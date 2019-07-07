@@ -28,6 +28,7 @@ PHP Framework mock
 - Composer からインストール `composer create-project`
 - PSR 準拠
 - IDE で定義へジャンプできるように PHPDoc を書く
+- strict モードで型を定義
 
 ## 参考フレームワーク
 - [Laravel](https://github.com/laravel/laravel)
