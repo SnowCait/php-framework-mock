@@ -17,7 +17,7 @@ PHP Framework mock
 - Controller [WebController, CliController]
 
 ### オプション
-- .editorconfig
+- .editorconfig, .gitignore, .gitattributes
 - PHPUnit
 
 フレームワークに含めたくないけど欲しいやつ
