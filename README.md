@@ -14,7 +14,11 @@ PHP Framework mock
 - Router
 - Logger
 - Input & Validation, Output (View)
-- Controller [WebController, CliController]
+- Controller
+  - WebController
+    - HtmlController
+    - Api(Json)Controller
+  - CliController
 
 ### オプション
 - .editorconfig, .gitignore, .gitattributes
