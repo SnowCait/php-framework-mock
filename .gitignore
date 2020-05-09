@@ -1,0 +1,11 @@
+# Composer, NPM
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# PHPUnit
+.phpunit.result.cache
+
+# General
+.env
