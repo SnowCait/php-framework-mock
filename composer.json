@@ -1,7 +1,7 @@
 {
     "name": "snowcait/framework-mock",
     "description": "REST API Framework",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
