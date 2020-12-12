@@ -1,10 +1,29 @@
 {
+    "name": "snowcait/framework-mock",
+    "description": "REST API Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SnowCait",
+            "email": "SnowCait@users.noreply.github.com"
+        }
+    ],
+    "require": {},
     "require-dev": {
         "phpunit/phpunit": "^8.5"
     },
     "scripts": {
+        "test": [
+            "vendor/bin/phpunit"
+        ],
         "test-win": [
             "vendor\\bin\\phpunit"
         ]
+    },
+    "config": {
+        "platform": {
+            "php": "8.0"
+        }
     }
 }
