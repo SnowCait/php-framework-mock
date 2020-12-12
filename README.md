@@ -10,6 +10,8 @@ PHP Framework mock
 - あれもこれもできるようにはしない、選択肢は1つにする
   - 用意されているクラスやメソッドは想定通りに使われるように可能な限り制約を設ける
 - MVC
+- Based on PHP 8.
+- Develop with VS Code.
 
 ### 必須クラス
 - Router
