@@ -12,6 +12,8 @@ PHP Framework mock
 - MVC
 - Based on PHP 8.
 - Develop with VS Code.
+- REST API
+- スケールしやすい設計
 
 ### 必須クラス
 - Router
@@ -19,7 +21,7 @@ PHP Framework mock
 - Input & Validation, Output (View)
 - Controller
   - WebController
-    - HtmlController
+    - ~HtmlController~
     - Api(Json)Controller
   - CliController
 
